@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1373223391 source:c:\users\masha\desktop\proj1\haffman\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstdio>
+	<map>
+	<list>
+	<vector>
+	<string>
+

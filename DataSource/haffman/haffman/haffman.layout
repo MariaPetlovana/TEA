@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Encrypt.cpp" open="1" top="0" tabpos="11">
+		<Cursor position="155" topLine="0" />
+	</File>
+	<File name="Encrypt.h" open="1" top="0" tabpos="10">
+		<Cursor position="183" topLine="0" />
+	</File>
+	<File name="HaffmanTable.h" open="1" top="0" tabpos="8">
+		<Cursor position="718" topLine="0" />
+	</File>
+	<File name="Table.h" open="1" top="0" tabpos="5">
+		<Cursor position="168" topLine="0" />
+	</File>
+	<File name="Tree.h" open="1" top="0" tabpos="4">
+		<Cursor position="652" topLine="43" />
+	</File>
+	<File name="Tree_Node.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="85" topLine="0" />
+	</File>
+	<File name="Tree_Node.h" open="1" top="0" tabpos="2">
+		<Cursor position="257" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="426" topLine="1" />
+	</File>
+</CodeBlocks_layout_file>

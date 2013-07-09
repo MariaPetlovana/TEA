@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1373223391 source:c:\users\masha\desktop\proj1\haffman\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstdio>
+	<map>
+	<list>
+	<vector>
+	<string>
+
+1373286149 source:c:\users\1\documents\projects\datasource\haffman\haffman\haffmantable.cpp
+	"HaffmanTable.h"
+
+1373287968 c:\users\1\documents\projects\datasource\haffman\haffman\haffmantable.h
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<vector>
+	<fstream>
+	"Tree_Node.h"
+	"Tree.h"
+	"Table.h"
+	"ValueTable.h"
+
+1373286149 c:\users\1\documents\projects\datasource\haffman\haffman\tree_node.h
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<vector>
+	<fstream>
+
+1373286468 c:\users\1\documents\projects\datasource\haffman\haffman\tree.h
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<vector>
+	<fstream>
+	<list>
+	<map>
+	"Tree_Node.h"
+	"Tree.h"
+	"Table.h"
+	"ValueTable.h"
+
+1373286480 c:\users\1\documents\projects\datasource\haffman\haffman\table.h
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<vector>
+	<fstream>
+	<map>
+
+1373286149 c:\users\1\documents\projects\datasource\haffman\haffman\valuetable.h
+	"Table.h"
+
+1373286149 source:c:\users\1\documents\projects\datasource\haffman\haffman\tree_node.cpp
+	"Tree_Node.h"
+
+1373286149 source:c:\users\1\documents\projects\datasource\haffman\haffman\valuetable.cpp
+	"ValueTable.h"
+
+1373287990 source:c:\users\1\documents\projects\datasource\haffman\haffman\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstdio>
+	<map>
+	<list>
+	<vector>
+	<string>
+	"Tree_Node.h"
+	"Tree.h"
+	"Table.h"
+	"ValueTable.h"
+	"HaffmanTable.h"
+	"Encrypt.h"
+
+1373286503 c:\users\1\documents\projects\datasource\haffman\haffman\encrypt.h
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<vector>
+	<fstream>
+	"ValueTable.h"
+
+1373287225 source:c:\users\1\documents\projects\datasource\haffman\haffman\encrypt.cpp
+	"Encrypt.h"
+	"Tree_Node.h"
+	"Tree.h"
+	"Table.h"
+	"ValueTable.h"
+	"HaffmanTable.h"
+	<vector>
+
