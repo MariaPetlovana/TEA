@@ -1,0 +1,4 @@
+TEA
+===
+
+Tiny encryption algorithm
